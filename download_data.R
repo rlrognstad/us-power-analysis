@@ -1,6 +1,7 @@
 # EIA data download ----
 library(httr)
 library(jsonlite)
+library(tidyverse)
 
 #https://towardsdatascience.com/use-r-to-pull-energy-data-from-the-department-of-energys-eia-api-8c4512946a28
 
